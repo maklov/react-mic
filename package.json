@@ -35,7 +35,7 @@
   },
   "peerDependencies": {
     "prop-types": "^15.5.10",
-    "react": "16.x"
+    "react": "*"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0",
