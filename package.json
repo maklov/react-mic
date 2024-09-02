@@ -1,6 +1,6 @@
 {
   "name": "@maklov/react-mic",
-  "version": "12.4.6",
+  "version": "1.0.0",
   "description": "Record audio from your microphone and display as a sound oscillation. This is fixed version of react-mic created by @hackingbeauty. It supports newest version of react",
   "main": "dist/index.js",
   "files": [
